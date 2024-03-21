@@ -19,5 +19,5 @@ HEAD -- это голова.
 graph LR;
   untracked -- "git add" --> staged;
   staged    -- "???"     --> tracked/comitted;
-```mermaid
+```
 
