@@ -11,3 +11,13 @@ git add | Добавление в индекс
 git commit | Добавление изменений
 git push| Отправка изменений в GitHub
 
+HEAD -- это голова.
+Коммит -- это всему голова.
+Статусы файлов:
+
+```mermaid
+graph LR;
+  untracked -- "git add" --> staged;
+  staged    -- "???"     --> tracked/comitted;
+```mermaid
+
