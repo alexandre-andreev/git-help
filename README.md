@@ -21,3 +21,9 @@ graph LR;
   staged    -- "???"     --> tracked/comitted;
 ```
 
+<ul type = "circle">
+<li>Пункт 1</li>
+<li>Пункт 2</li>
+<li>Пункт 3</li>
+</ul>
+
