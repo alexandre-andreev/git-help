@@ -1,0 +1,8 @@
+# Для слияния будем использовать следующие команды
+git push -u origin feature-goose-poem
+
+или
+
+git push --set-upstream origin HEAD
+HEAD - синоним текущей ветки
+set-upstream = u
