@@ -6,3 +6,5 @@ git push -u origin feature-goose-poem
 git push --set-upstream origin HEAD
 HEAD - синоним текущей ветки
 set-upstream = u
+
+добавил текст для сравнения
